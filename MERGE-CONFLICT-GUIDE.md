@@ -456,9 +456,7 @@ Everything up-to-date   (or the new merge commit was pushed)
 
 ### Step 11.7 - Verify the conflict is gone on GitHub
 
-Refresh the Pull Request page. It should now say:
-
-```text
+Refresh the Pull Request page. 
 This branch has no conflicts with the base branch.
 ```
 
