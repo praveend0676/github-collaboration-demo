@@ -1,0 +1,51 @@
+ git log --oneline --graph --decorate --all
+*   be694b9 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from praveend0676/feture-login
+|\  
+| *   edfc1d3 Resovle merge conflits in main
+| |\  
+| | *   9eab3ab Merge branch 'main' into feture-login
+| | |\  
+| |_|/  
+|/| |   
+| * |   b11d589 Resolve the merge
+| |\ \  
+| |/ /  
+:
+*   be694b9 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from praveend0676/feture-login
+|\  
+| *   edfc1d3 Resovle merge conflits in main
+| |\  
+| | *   9eab3ab Merge branch 'main' into feture-login
+| | |\  
+| |_|/  
+|/| |   
+| * |   b11d589 Resolve the merge
+| |\ \  
+| |/ /  
+|/| /   
+| |/    
+* | 7b77791 Update main application by developer A
+| * e2115f2 add loging by developer B
+|/  
+* da6a8da Intial project
+:
+*   be694b9 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from praveend0676/feture-login
+|\  
+| *   edfc1d3 Resovle merge conflits in main
+| |\  
+| | *   9eab3ab Merge branch 'main' into feture-login
+| | |\  
+| |_|/  
+|/| |   
+| * |   b11d589 Resolve the merge
+| |\ \  
+| |/ /  
+|/| /   
+| |/    
+* | 7b77791 Update main application by developer A
+| * e2115f2 add loging by developer B
+|/  
+* da6a8da Intial project
+~
+~
+--old-bot
